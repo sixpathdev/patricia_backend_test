@@ -1,10 +1,10 @@
 
-## PATRICIA INTERN ASSESSMENT
+## PATRICIA BACK-END ASSESSMENT
 
 Build a RESTFUL Api to perform crud operations restricted to authenticated users and authenticated endpoints
 
 
-## Installation
+### Installation
 
 - Run composer install
 
